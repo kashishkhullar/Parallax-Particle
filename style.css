@@ -1,0 +1,28 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+
+#particles-js
+{
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	z-index: 1000;
+
+}
+.parallax-window {
+    min-height: 100%;
+    background: transparent;
+
+}
+#particles-js3
+{
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	z-index: 1000;
+
+}
